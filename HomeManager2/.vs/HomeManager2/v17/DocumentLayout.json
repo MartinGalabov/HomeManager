@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1FE78-DE8D-4E7E-A328-3B28C7358A2B}|HomeManager2.Test\\HomeManager2.Test.csproj|c:\\users\\\u043C\u0430\u0440\u0442\u0438\u043D \u0433\u044A\u043B\u044A\u0431\u043E\u0432\\documents\\github\\homemanager\\homemanager2\\homemanager2.test\\homemanager2.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2E1FE78-DE8D-4E7E-A328-3B28C7358A2B}|HomeManager2.Test\\HomeManager2.Test.csproj|solutionrelative:homemanager2.test\\homemanager2.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1950B748-DF91-4A0C-95A0-23F3EC8D5F98}|HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj|c:\\users\\\u043C\u0430\u0440\u0442\u0438\u043D \u0433\u044A\u043B\u044A\u0431\u043E\u0432\\documents\\github\\homemanager\\homemanager2\\homemanager2.datalayer\\homemanager2.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1950B748-DF91-4A0C-95A0-23F3EC8D5F98}|HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj|solutionrelative:homemanager2.datalayer\\homemanager2.datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC652629-DBF0-4F42-9A5A-C440260F3C3E}|HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj|c:\\users\\\u043C\u0430\u0440\u0442\u0438\u043D \u0433\u044A\u043B\u044A\u0431\u043E\u0432\\documents\\github\\homemanager\\homemanager2\\homemanager2.bizlayer\\homemanager2.bizlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC652629-DBF0-4F42-9A5A-C440260F3C3E}|HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj|solutionrelative:homemanager2.bizlayer\\homemanager2.bizlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC60AFE-50C1-4CE2-B9BA-9F6C15924F14}|HomeManager2\\HomeManager2.csproj|c:\\users\\\u043C\u0430\u0440\u0442\u0438\u043D \u0433\u044A\u043B\u044A\u0431\u043E\u0432\\documents\\github\\homemanager\\homemanager2\\homemanager2\\homemanager2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAC60AFE-50C1-4CE2-B9BA-9F6C15924F14}|HomeManager2\\HomeManager2.csproj|solutionrelative:homemanager2\\homemanager2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeManager2.BizLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj",
+              "RelativeDocumentMoniker": "HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj",
+              "RelativeToolTip": "HomeManager2.BizLayer\\HomeManager2.BizLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T20:38:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeManager2.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.Test\\HomeManager2.Test.csproj",
+              "RelativeDocumentMoniker": "HomeManager2.Test\\HomeManager2.Test.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.Test\\HomeManager2.Test.csproj",
+              "RelativeToolTip": "HomeManager2.Test\\HomeManager2.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T20:32:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeManager2.DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj",
+              "RelativeDocumentMoniker": "HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj",
+              "RelativeToolTip": "HomeManager2.DataLayer\\HomeManager2.DataLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T20:29:33.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeManager2.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2\\HomeManager2.csproj",
+              "RelativeDocumentMoniker": "HomeManager2\\HomeManager2.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0440\u0442\u0438\u043D \u0413\u044A\u043B\u044A\u0431\u043E\u0432\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2\\HomeManager2.csproj",
+              "RelativeToolTip": "HomeManager2\\HomeManager2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T20:16:30.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

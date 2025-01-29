@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKUywF8L8B4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Мартин Гълъбов\\Documents\\GitHub\\HomeManager\\HomeManager2\\HomeManager2.Models\\HomeManager2.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Мартин Гълъбов\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Мартин Гълъбов\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "C:\\Users\\Мартин Гълъбов\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.12\\microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

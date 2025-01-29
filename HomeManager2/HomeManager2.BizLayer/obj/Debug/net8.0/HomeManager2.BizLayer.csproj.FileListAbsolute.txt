@@ -1,0 +1,17 @@
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.BizLayer.deps.json
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.BizLayer.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.BizLayer.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.DataLayer.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.Models.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.DataLayer.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\bin\Debug\net8.0\HomeManager2.Models.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.csproj.AssemblyReference.cache
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.AssemblyInfoInputs.cache
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.AssemblyInfo.cs
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeMana.FB898A2E.Up2Date
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\refint\HomeManager2.BizLayer.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\HomeManager2.BizLayer.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.BizLayer\obj\Debug\net8.0\ref\HomeManager2.BizLayer.dll

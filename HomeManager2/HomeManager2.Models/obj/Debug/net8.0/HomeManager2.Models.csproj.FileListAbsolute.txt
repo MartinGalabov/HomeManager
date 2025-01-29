@@ -1,0 +1,11 @@
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\bin\Debug\net8.0\HomeManager2.Models.deps.json
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\bin\Debug\net8.0\HomeManager2.Models.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\bin\Debug\net8.0\HomeManager2.Models.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.AssemblyInfoInputs.cache
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.AssemblyInfo.cs
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.csproj.CoreCompileInputs.cache
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\refint\HomeManager2.Models.dll
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\HomeManager2.Models.pdb
+C:\Users\Мартин Гълъбов\Documents\GitHub\HomeManager\HomeManager2\HomeManager2.Models\obj\Debug\net8.0\ref\HomeManager2.Models.dll
